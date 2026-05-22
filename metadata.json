@@ -1,0 +1,6 @@
+{
+  "name": "SYD Financial Center",
+  "description": "SYD Financial Center is a premium combined app featuring SYD Wallets (financial transactions tracker) and SYD Assets (consolidated asset tracker) with local persistence, analytics, dark theme, and sensor mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
